@@ -1,0 +1,32 @@
+{
+  "name": "zdashboard-x-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "dependencies": {
+    "angular": "",
+    "angular-amd": "^0.2.1",
+    "angular-ui-router": "^0.3.2",
+    "bootstrap": "",
+    "browser-sync": "",
+    "domready": "^1.0.8",
+    "gulp": "",
+    "gulp-clean-css": "^2.2.2",
+    "gulp-copy": "0.0.2",
+    "gulp-include": "",
+    "gulp-less": "",
+    "gulp-watch": "",
+    "gulp-watch-less": "^1.0.1",
+    "jquery": "^3.1.1",
+    "lite-server": "",
+    "ngstorage": "^0.3.11",
+    "normalize.css": "^5.0.0",
+    "requirejs": ""
+  },
+  "author": "",
+  "license": "ISC"
+}

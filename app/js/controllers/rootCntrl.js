@@ -1,0 +1,1 @@
+define(['app'], function (app) {    app.controller('rootCntrl',        ['$scope', '$localStorage', '$sessionStorage',        function ($scope, $localStorage, $sessionStorage) {            console.log('rootCntrl init');        }]);});
